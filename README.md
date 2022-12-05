@@ -2,7 +2,6 @@
 Golang Framework untuk Informatics Research Center. Framework ini dibuat dengan berbasiskan gin. 
 Salah satu framework terpopuler di golang.
 
-
 ## Getting started
 
 Tutorial ada di youtube.com/@awangga di sana beberapa langkah dijelaskan untuk menguasai framework ini.
